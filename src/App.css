@@ -1,0 +1,39 @@
+h1{
+  text-align: left;
+}
+button{
+  text-align: center;
+  color: red;
+  border: 0;
+  font-size: 20px;
+  font-weight: 500;
+}
+.moreBtn{
+  display: flex;
+  flex-direction: row-reverse;
+  outline: none;
+}
+.container{
+  display: flex;
+  justify-content: space-around;
+}
+.avail{
+  color:rgb(18%, 33%, 48%)
+}
+.information{
+  color:rgb(16%, 40%, 73%)
+}
+.box{
+  padding: 60px;
+  border: gray solid
+}
+.price{
+  text-align: center;
+  color: red;
+  font-weight: 600;
+}
+.name{
+  color: blue;
+  font-weight: 500;
+  font-size: 15px;
+}
